@@ -81,7 +81,7 @@ public class JhipsterappApp {
             log.warn("The host name could not be determined, using `localhost` as fallback");
         }
         log.info("\n----------------------------------------------------------\n\t" +
-                "Aplikacja '{}' jest uruchomiona! Adres URLs:\n\t" +
+                "Aplikacja '{}' jest uruchomiona! hahaha Adres URLs:\n\t" +
                 "Local: \t\t{}://localhost:{}{}\n\t" +
 
                 "External: \t{}://{}:{}{}\n\t" +
