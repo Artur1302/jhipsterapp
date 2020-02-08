@@ -83,6 +83,7 @@ public class JhipsterappApp {
         log.info("\n----------------------------------------------------------\n\t" +
                 "Aplikacja '{}' jest uruchomiona! Adres URLs:\n\t" +
                 "Local: \t\t{}://localhost:{}{}\n\t" +
+
                 "External: \t{}://{}:{}{}\n\t" +
                 "Profile(s): \t{}\n----------------------------------------------------------",
             env.getProperty("spring.application.name"),
